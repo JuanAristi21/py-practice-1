@@ -25,7 +25,7 @@ Use the variable `year` to store the current year.
 year = 2023 # get current year
 years_left = 2045 # write your code here
 resta= year-years_left
-print("resta:", years_left)
+print(resta , years_left)
 
 '''
 Exercise 3:** Calculate the number of DAYS until 2045.
